@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(25, 140, 163);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#title{
+    text-align: center;
+    letter-spacing: 10px;
+    color: chartreuse;
+    background-color: rgb(0, 99, 99)
+}
+
+#timer{
+
+   padding-right: 10px;
+   font-size: 27px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   letter-spacing: 5px;
+}
+
